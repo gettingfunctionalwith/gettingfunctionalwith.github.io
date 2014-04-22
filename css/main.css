@@ -40,15 +40,31 @@
 
 .cover {
     position: relative;
-    margin-bottom: 4.625em;
+    margin-bottom: -4.625em;
 }
 
 .cover img {
-    min-height: 4.625em;
+    min-width: 100%;
+    max-height: none;
+    margin-bottom: 0;
+
+    position: relative;
+    z-index: 1;
+    border: 1px solid gray;
+    -moz-box-sizing: content-box;
+    -webkit-box-sizing: content-box;
+    box-sizing: content-box;
+    width: auto;
+    max-height: 9.375em;
+    margin-bottom: 0.625em;
+
+    display: inline-block;
+    vertical-align: middle;
 }
 
-.cover::after {
+.cover:after {
     display: block;
+    content: '';
     position: absolute;
     height: 2px;
     bottom: 7px;
