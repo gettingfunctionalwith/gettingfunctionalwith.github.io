@@ -199,6 +199,9 @@ ul, ol, dl {
     padding-left: 0;
 }
 
+
+
+
 #book_quick_facts {
 background-color: #dadedf;
 border-top: 1px solid #ccd2d3;
@@ -256,4 +259,23 @@ text-align: center;
 line-height: 1em;
 font-size: 0.8125em;
 color: #a3adb0;
+}
+
+li.reader_count strong, li.page_count strong, li.word_count strong, li.percent_complete strong {
+font-size: 2em;
+}
+
+li.reader_count strong, li.page_count strong, li.word_count strong, li.percent_complete strong {
+display: block;
+line-height: 1em;
+color: white;
+text-shadow: 0 -1px rgba(0,0,0,0.5),0 1px rgba(255,255,255,0.2);
+color: #6e7c7f;
+font-size: 1.64286em;
+}
+
+strong, b {
+font-family: "ff-meta-web-pro-n7","ff-meta-web-pro", "Helvetica Neue","Helvetica",Helvetica,Arial,sans-serif;
+font-weight: 700;
+font-style: normal;
 }
