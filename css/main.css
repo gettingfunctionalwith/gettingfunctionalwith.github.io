@@ -149,15 +149,15 @@ ul, ol, dl {
     font-family: "ff-meta-web-pro-n4","ff-meta-web-pro";
 }
 
-.toc.no-parts>li, #table_of_contents .columns>ol>li {
+.toc.no-parts>li {
 font-size: 1.25em;
 }
 
-#table_of_contents ol li, .toc li {
+.toc li {
 padding-left: 0;
 }
 
-.toc, .toc ul, #table_of_contents ol {
+.toc, .toc ul {
 padding: 0;
 margin: 0;
 list-style: none;
@@ -179,23 +179,4 @@ line-height: 1.6;
 margin-bottom: 1.25em;
 list-style-position: outside;
 font-family: "ff-meta-web-pro-n4","ff-meta-web-pro";
-}
-
-.toc.no-parts>li>ul>li, .toc.has-parts>li>ul>li>ul>li, #table_of_contents ol .section {
-font-size: 80%;
-}
-
-.toc.no-parts>li>ul>li, .toc.has-parts>li>ul>li>ul>li, #table_of_contents ol .section {
-font-size: 83.33333%;
-}
-
-#table_of_contents ol li>ul>li, #table_of_contents ol li>ol>li, .toc li>ul>li, .toc li>ol>li {
-font-family: "ff-meta-web-pro-n4","ff-meta-web-pro", "Helvetica Neue","Helvetica",Helvetica,Arial,sans-serif;
-font-weight: 400;
-font-style: normal;
-margin-left: 1em;
-}
-
-#table_of_contents ol li, .toc li {
-padding-left: 0;
 }
