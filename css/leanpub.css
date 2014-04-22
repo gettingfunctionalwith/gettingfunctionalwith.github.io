@@ -1249,7 +1249,7 @@ footer ul,footer p {
     margin:0 auto;font-size:0.625em
 }
 .book-and-checkout-sprite,#quick_buy .happiness-guarantee,.guarantee a {
-    background:url(/assets/sprites/book-and-checkout-sd1355dbe4f-5d3b0727883de8cedb5dceccc3c9557a.png) no-repeat
+    background:url(/img/sprite.png) no-repeat
 }
 #book_masthead,#prospective_reader_survey,#book_description,#bundles,#causes_supported,#happiness_guarantee,#about_the_authors,#other_works,#table_of_contents {
     padding-top:1.3125em;padding-bottom:1.3125em
@@ -1741,7 +1741,7 @@ li.reader_count strong,li.page_count strong,li.word_count strong,li.percent_comp
 
 }
 li.language strong {
-    text-indent:-119988px;overflow:hidden;text-align:left;background-position:0 -60px;height:22px;width:26px;background-image:url(/assets/sprites/book-and-checkout-sd1355dbe4f-5d3b0727883de8cedb5dceccc3c9557a.png);background-repeat:no-repeat;-webkit-background-size:31px 81px;-moz-background-size:31px 81px;-o-background-size:31px 81px;background-size:31px 81px;width:21px;height:18px;background-position:0 -49px
+    text-indent:-119988px;overflow:hidden;text-align:left;background-position:0 -60px;height:22px;width:26px;background-image:url(/img/sprite.png);background-repeat:no-repeat;-webkit-background-size:31px 81px;-moz-background-size:31px 81px;-o-background-size:31px 81px;background-size:31px 81px;width:21px;height:18px;background-position:0 -49px
 }
 @media only screen and (min-width: 768px) {
     li.language strong {
@@ -1750,7 +1750,7 @@ li.language strong {
 
 }
 li.language_options strong {
-    text-indent:-119988px;overflow:hidden;text-align:left;background-position:0 -38px;height:22px;width:28px;background-image:url(/assets/sprites/book-and-checkout-sd1355dbe4f-5d3b0727883de8cedb5dceccc3c9557a.png);background-repeat:no-repeat;-webkit-background-size:31px 81px;-moz-background-size:31px 81px;-o-background-size:31px 81px;background-size:31px 81px;width:23px;height:18px;background-position:0 -31px
+    text-indent:-119988px;overflow:hidden;text-align:left;background-position:0 -38px;height:22px;width:28px;background-image:url(/img/sprite.png);background-repeat:no-repeat;-webkit-background-size:31px 81px;-moz-background-size:31px 81px;-o-background-size:31px 81px;background-size:31px 81px;width:23px;height:18px;background-position:0 -31px
 }
 @media only screen and (min-width: 768px) {
     li.language_options strong {
