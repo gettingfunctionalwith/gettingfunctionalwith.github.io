@@ -40,7 +40,7 @@
 
 .cover {
     position: relative;
-    margin-bottom: -4.625em;
+    margin-bottom: -8em;
 }
 
 .cover img {
@@ -55,7 +55,6 @@
     -webkit-box-sizing: content-box;
     box-sizing: content-box;
     width: auto;
-    max-height: 9.375em;
     margin-bottom: 0.625em;
 
     display: inline-block;
